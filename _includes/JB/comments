@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 {% if site.JB.comments.provider and page.comments != false %}
-=======
-{% if site.JB.comments.provider and page.JB.comments != false %}
->>>>>>> origin/docs-theme-packages
 
 {% case site.JB.comments.provider %}
 {% when "disqus" %}
