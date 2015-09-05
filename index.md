@@ -6,6 +6,7 @@ description: "Jennings Consultants providing simple effective services for your 
 published: true
 ---
 
+
 {% include JB/setup %}
 
 <section id="about" class="about">
@@ -38,11 +39,6 @@ We can review the way your organisation works along with the documentation and p
 
 ## Process mapping
 From the most basic function to the highest level operation, process mapping can quickly help to determine areas of inefficiency and waste such as over processing, double handling, job role confusion etc.  As an independent we can offer impartial advice on best practices which in turn will help you determine the right skill sets for each aspect of your operation.
-
-### Somehting
-hello
-
-
 
 ## Internal Audits
 Processes are only as good as the people that use them so it is important to ensure that your team understand and follow your processes correctly.  We can carry out an independent review of the documented processes within your organisation to the current ISO 9001 and or 14001 standards as well as to your organisation’s requirements.  Agreed corrective actions will be documented with agreed timescales for completion, follow up audits can be conducted to ensure action closure.
