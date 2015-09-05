@@ -1,12 +1,9 @@
 ---
 layout: page
 title: Jennings Consulting
-tagline: "<BR>Simplifying Business Improvement & support"
-description: "Jennings Consultants providing simple effective services for your organisation's needs"
-published: true
+tagline: <BR>Simplifying Business Improvement & support
+description: Jennings Consultants providing simple effective services for your organisation's needs
 ---
-
-
 {% include JB/setup %}
 
 <section id="about" class="about">
@@ -68,3 +65,4 @@ Embrace change within your organisation and empower everyone to push for continu
 To successfully measure the performance of your organisation, you need to ensure that you identify and focus on the correct areas of your business in line with your key objectives. We can help establish what these areas are and then help you decide how best to measure performance in those areas and set KPI's that align with your strategy, engage people and get results. These are then implemented into your organisation's reporting structure and ownership delegated to those in control of the outputs. Careful monitoring and reviewing of the system then leads the business in the right direction for Customer satisfaction, Effectiveness, Efficiency and Profitability.
   </div>
 </section>
+
