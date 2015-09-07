@@ -28,37 +28,21 @@ We have held senior management positions within organisations reporting at board
 
 <section id="services" class="services">
   <div markdown="1">
-## SERVICES
+## Supplier Auditing
 
-<H2>Supplier Audit – Your organisation’s key suppliers are important to ensure you meet your customer’s expectation with the minimal extra costs.  Working with your suppliers is an important step to make them aware of your requirements and to show them that they important to you as an effective supplier.  Our supplier audits can be tailored to your organisation’s needs and can be from a half day to multiple day’s duration.  A full report is provided together with agreed actions and timescales.  Follow up audits are scheduled to ensure action closure, prior to first off production subsequent production.</H2>
+<H2>Your organisation’s key suppliers are important to ensure you meet your customer’s expectation with the minimal extra costs.  Working with your suppliers is an important step to make them aware of your requirements and to show them that they important to you as an effective supplier.  
+
+Our supplier audits can be tailored to your organisation’s needs and can be from a half day to multiple day’s duration.  A full report is provided together with agreed actions and timescales accordingly.  
+
+Follow up audits are scheduled as required to ensure action closure, prior to first off production or subsequent production runs.
 
 ## Outsourcing to China or other low cost economy?  We offer tailored packages to conduct effective supplier audits throughout China and Asia pacific.
 
-## Audits carried out for the following:
+## Audits conducted include the following:
 
 ## Exporting / Importing / Due diligance / Capability / Process control / Product based
+</H2>
 
-Other services provided:
-
-Internal Audit
-
-Business system reviews
-
-Process mapping
-
-Gap analysis to ISO9001:2008
-
-Process documentation
-
-Health and Safety health checks
-
-Health and Safety site inspections
-
-Relief Quality Manager Service
-
-Continuous improvement & cultural change management
-
-Key Performance Indicator Implementation & Management
 
   </div>
 </section>
