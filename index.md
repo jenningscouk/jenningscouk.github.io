@@ -10,12 +10,12 @@ description: Jennings Consultants providing effective supplier audits
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h1>Supplier audit specialists</h1>
-                    <h1><p class="lead">Here at Jennings Consulting we pride ourselves in conducting professional supplier audits for a variety of industry sectors. 
+                    <h2>Supplier audit specialists</h2>
+                    <h2><p class="lead">Here at Jennings Consulting we pride ourselves in conducting professional supplier audits for a variety of industry sectors. 
 
 We are a small team of business professionals with over 20 years’ experience within the Service and Manufacturing industries.
 
-We have held senior management positions within organisations reporting at board level on business performance driving improvements from the top.</H1)
+We have held senior management positions within organisations reporting at board level on business performance driving improvements from the top.  Contact us below to discuss your requirements.
 
                 </div>
             </div>
