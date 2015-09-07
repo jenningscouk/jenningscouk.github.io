@@ -15,7 +15,7 @@ description: Jennings Consultants providing simple effective services for your o
 
 We are a small team of business professionals with over 20 years’ experience within the Service and Manufacturing industries.
 
-We have held senior management positions within organisations reporting at board level on Business performance driving improvements from the top.
+We have held senior management positions within organisations reporting at board level on business performance driving improvements from the top.
 
 Contact us on the number below to find out how we can help you to take your business to the next level.
                 </div>
