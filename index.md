@@ -30,15 +30,15 @@ We have held senior management positions within organisations reporting at board
   <div markdown="1">
 ## Supplier Auditing
 
-<H2>Your organisation’s key suppliers are important to ensure you meet your customer’s expectation with the minimal extra costs.  Working with your suppliers is an important step to make them aware of your requirements and to show them that they important to you as an effective supplier.  <BR>
+<H2>Your organisation’s key suppliers are important to ensure you meet your customer’s expectation with the minimal extra costs.  Working with your suppliers is an important step to make them aware of your requirements and to show them that they important to you as an effective supplier.  <BR><BR>
 
-Our supplier audits can be tailored to your organisation’s needs and can be from a half day to multiple day’s duration.  A full report is provided together with agreed actions and timescales accordingly.  <BR>
+Our supplier audits can be tailored to your organisation’s needs and can be from a half day to multiple day’s duration.  A full report is provided together with agreed actions and timescales accordingly.  <BR><BR>
 
-Follow up audits are scheduled as required to ensure action closure, prior to first off production or subsequent production runs.<BR>
+Follow up audits are scheduled as required to ensure action closure, prior to first off production or subsequent production runs.<BR><BR>
 
-## Outsourcing to China or other low cost economy?  We offer tailored packages to conduct effective supplier audits throughout China and Asia pacific.<BR>
+## Outsourcing to China or other low cost economy?  We offer tailored packages to conduct effective supplier audits throughout China and Asia pacific.<BR><BR>
 
-## Audits conducted include the following:<BR>
+## Audits conducted include the following:<BR><BR>
 
 ## Exporting / Importing / Due diligance / Capability / Process control / Product based
 </H2>
