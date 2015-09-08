@@ -13,9 +13,8 @@ description: Jennings Consultants providing effective supplier audits
                     <H2>Supplier audit specialists</H2>
                     <H2><p class="lead">Here at Jennings Consulting we pride ourselves in conducting professional supplier audits for a variety of industry sectors. 
 
-We are a small team of business professionals with over 20 years’ experience within the Service and Manufacturing industries.
-
-We have held senior management positions within organisations reporting at board level on business performance driving improvements from the top.  <BR><BR><BR>Please see the bottom of the page for our contact details. </H2>
+We are a small team of business professionals with over 20 years’ experience within the Service and Manufacturing industries.  We have a wealth of experience carrying out audits in the UK, mainland Europe and Asia and thrive on delivering supplier audits to allow our clients to make a correct and informed decision.  Whether you are considering purchasing from a supplier for the first time or you require support for first off production.
+  <BR><BR><BR>Please see the bottom of the page for our contact details. </H2>
 
                 </div>
             </div>
