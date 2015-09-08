@@ -29,7 +29,7 @@ We have held senior management positions within organisations reporting at board
 <section id="services" class="services">
   <div markdown="1">
 
-Your organisation’s key suppliers are important to ensure you meet your customer’s expectation with the minimal extra costs.  Working with your suppliers is an important step to make them aware of your requirements and to show them that they important to you as an effective supplier.  <BR><BR>
+<h2>Your organisation’s key suppliers are important to ensure you meet your customer’s expectation with the minimal extra costs.  Working with your suppliers is an important step to make them aware of your requirements and to show them that they important to you as an effective supplier.  <BR><BR>
 
 Our supplier audits can be tailored to your organisation’s needs and can be from a half day to multiple day’s duration.  A full report is provided together with agreed actions and timescales accordingly.  <BR><BR>
 
