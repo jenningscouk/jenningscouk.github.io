@@ -15,7 +15,7 @@ description: Jennings Consultants providing effective supplier audits
 
 We are a small team of business professionals with over 20 years’ experience within the Service and Manufacturing industries.
 
-We have held senior management positions within organisations reporting at board level on business performance driving improvements from the top.  Contact us below to discuss your requirements.
+We have held senior management positions within organisations reporting at board level on business performance driving improvements from the top.  <BR><BR><BR>Contact us below to discuss your requirements.
 
                 </div>
             </div>
@@ -29,7 +29,7 @@ We have held senior management positions within organisations reporting at board
 <section id="services" class="services">
   <div markdown="1">
 
-<h2>Your organisation’s key suppliers are important to ensure you meet your customer’s expectation with the minimal extra costs.  Working with your suppliers is an important step to make them aware of your requirements and to show them that they important to you as an effective supplier.  <BR><BR>
+<H2>Your organisation’s key suppliers are important to ensure you meet your customer’s expectation with the minimal extra costs.  Working with your suppliers is an important step to make them aware of your requirements and to show them that they important to you as an effective supplier.  <BR><BR>
 
 Our supplier audits can be tailored to your organisation’s needs and can be from a half day to multiple day’s duration.  A full report is provided together with agreed actions and timescales accordingly.  <BR><BR>
 
